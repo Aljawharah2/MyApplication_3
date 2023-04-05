@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MainStyle">MainStyle</style>
+    <style name="MainStyle.PrimaryText">
+        <item name="android:textColor">?attr/colorPrimary</item>
+    </style>
+
+    <style name="MainStyle.SecondaryText">
+        <item name="android:textColor">?attr/colorSecondaryVariant</item>
+    </style>
+</resources>
